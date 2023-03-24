@@ -1,0 +1,13 @@
+CREATE TABLE my_store (id INTEGER PRIMARY KEY, clothing_item TEXT, price INTEGER, quanity INTEGER, stock INTEGER);
+
+INSERT INTO my_store VALUES (1, "Bra", 29, 4, 8);
+INSERT INTO my_store VALUES (2, "Jeans", 59.99, 3, 12);
+INSERT INTO my_store VALUES (3, "Slacks", 12.99, 18, 4);
+INSERT INTO my_store VALUES (4, "Jacket", 89.99, 1, 2);
+INSERT INTO my_store VALUES (5, "Socks", 12.99, 5, 3);
+INSERT INTO my_store VALUES (6, "Swimsuit", 18.99, 3, 0);
+INSERT INTO my_store VALUES (7, "Underwear", 6.99, 24, 18);
+INSERT INTO my_store VALUES (8, "Floral Purse", 49.99, 3, 0);
+INSERT INTO my_store VALUES (9, "Leggings", 12.99, 15, 8);
+INSERT INTO my_store VALUES (10, "Black high heels", 24.99, 4, 0);
+
